@@ -1,7 +1,7 @@
 const DocsPage = () => {
   return (
     <div>
-      <p>This is umi docs.23</p>
+      <p>This is umi docs.21233</p>
     </div>
   );
 };
